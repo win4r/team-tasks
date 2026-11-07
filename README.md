@@ -1,3 +1,5 @@
+[Bilibili profile](https://space.bilibili.com/3493277319825652)
+
 # Team Tasks — Multi-Agent Pipeline Coordination
 
 A Python CLI tool for coordinating multi-agent development workflows through shared JSON task files. Designed for use with [OpenClaw](https://github.com/openclaw/openclaw) and AI agent orchestration systems.
